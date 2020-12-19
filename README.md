@@ -4,8 +4,8 @@ assignment codes  -   https://github.com/hemant-sherla/coursera/tree/master/modu
 assignment output -   https://hemant-sherla.github.io/coursera/module%202/Index.html
 
 Module 3
-
-assignment output -
+assignment codes  - 
+assignment output - https://hemant-sherla.github.io/coursera/module%203/index.html
 
 Module 4
 
